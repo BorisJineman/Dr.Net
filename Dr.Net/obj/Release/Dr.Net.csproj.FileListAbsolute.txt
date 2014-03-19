@@ -41,7 +41,6 @@ C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Release\Dr.Net.exe
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Release\Dr.Net.pdb
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Release\PacketDotNet.dll
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Release\SharpPcap.dll
-C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Release\Dr.Net.csprojResolveAssemblyReference.cache
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Release\MainWindow.baml
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Release\MainWindow.g.cs
 C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Release\App.g.cs
