@@ -1,0 +1,52 @@
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.exe
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.pdb
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.baml
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.g.cs
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\App.g.cs
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net_MarkupCompile.cache
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.g.resources
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.exe
+D:\My Documents\Visual Studio 2008\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.pdb
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.exe
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.pdb
+D:\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.exe
+D:\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.pdb
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.baml
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.g.cs
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\App.g.cs
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net_MarkupCompile.cache
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.g.resources
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.Properties.Resources.resources
+D:\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.csproj.GenerateResource.Cache
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.exe
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.pdb
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.exe
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\Dr.Net.pdb
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\PacketDotNet.dll
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\SharpPcap.dll
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\PacketDotNet.xml
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\bin\Debug\SharpPcap.xml
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.baml
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\App.g.cs
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net_MarkupCompile.cache
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.g.resources
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.Properties.Resources.resources
+C:\Users\Boris\Documents\Visual Studio 2013\Projects\Dr.Net\Dr.Net\obj\Debug\Dr.Net.csproj.GenerateResource.Cache
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net.exe
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net.pdb
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\MainWindow.baml
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\App.g.cs
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net_MarkupCompile.cache
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net.g.resources
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net.Properties.Resources.resources
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\obj\Debug\Dr.Net.csproj.GenerateResource.Cache
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Debug\Dr.Net.exe.config
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Debug\Dr.Net.exe
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Debug\Dr.Net.pdb
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Debug\PacketDotNet.dll
+C:\Users\Boris\Documents\GitHub\Dr.Net\Dr.Net\bin\Debug\SharpPcap.dll
